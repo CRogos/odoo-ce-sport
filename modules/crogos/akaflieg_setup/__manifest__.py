@@ -9,6 +9,6 @@
     "category": "Accounting",
     "author": "CRogos",
     "website": "https://github.com/CRogos/odoo-ce-sport",
-    "depends": ["account"],
+    "depends": ["account", "contacts", "l10n_din5008"],
     "data": [],
 }
